@@ -1,0 +1,1 @@
+print("Mujahid Khan")
